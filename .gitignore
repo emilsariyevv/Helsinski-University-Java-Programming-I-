@@ -1,0 +1,8 @@
+.vscode/
+.tmc/
+.idea/
+.nbproject/
+build/
+dist/
+target/
+*.class
